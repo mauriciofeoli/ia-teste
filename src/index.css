@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+:root { font-family: Arial, sans-serif; color: #e9edf3; background: #101410; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+body { margin: 0; min-width: 320px; }
+button, input { font: inherit; }
+button { cursor: pointer; }
