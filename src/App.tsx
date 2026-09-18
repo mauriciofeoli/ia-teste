@@ -8,6 +8,7 @@ const initialCases: TestCase[] = [
   { id: 'TC-02', title: 'Rejects an empty email', kind: 'Negative', status: 'Todo' },
   { id: 'TC-03', title: 'Shows a useful error message', kind: 'UX', status: 'Todo' },
   { id: 'TC-04', title: 'Rejects a password shorter than 8 characters', kind: 'Negative', status: 'Todo' },
+  { id: 'TC-05', title: 'Rejects an empty password', kind: 'Negative', status: 'Todo' },
 ]
 
 function App() {
